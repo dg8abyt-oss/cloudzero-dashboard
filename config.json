@@ -1,0 +1,23 @@
+{
+  "user": {
+    "name": "Baldeep Singh Sethi",
+    "currentPlan": "Better"
+  },
+  "plans": [
+    {
+      "name": "Basic",
+      "price": "₹5,000 / year (+ ₹5k setup)",
+      "benefits": "Free Domain (.com/.in), Mobile Friendly Website, Light Hosting, Contact Form."
+    },
+    {
+      "name": "Better",
+      "price": "₹10,000 / year (+ ₹5k setup)",
+      "benefits": "Free Domain, Google Workspace Included, Fast Hosting, Scheduling System, Advertising Management."
+    },
+    {
+      "name": "Best",
+      "price": "₹15,000 / year (+ ₹5k setup)",
+      "benefits": "Free Domain, Premium, Backend Website, Google Workspace OR Office 365, Advertising Management, Fastest Hosting""
+    }
+  ]
+}
