@@ -1,0 +1,17 @@
+{
+  "name": "cloudzero-dashboard",
+  "version": "1.0.0",
+  "description": "Client portal with QR login",
+  "main": "api/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}
